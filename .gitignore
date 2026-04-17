@@ -1,0 +1,5 @@
+build/
+dependencies/
+external/
+*.exe
+*.dll
